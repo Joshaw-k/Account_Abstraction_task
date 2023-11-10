@@ -22,7 +22,7 @@ The `Smart Wallet Dapp`, allows you to create smart wallets. It has a factory co
 
 ## Demo Video
 
-https://www.loom.com/share/304e34d323594fed869f7c47cda40365?sid=0dd8754d-db97-4f90-b00a-d3b3ee94802d
+https://www.loom.com/share/5c6bd83617c44ee7873ecaba74536e61?sid=2e74f1a7-5dd9-41d6-bc48-1299014d7030
 
 ## Authors
 
